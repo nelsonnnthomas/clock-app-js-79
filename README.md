@@ -1,2 +1,4 @@
-# clock-app-js-79
+# Clock App Js 79
+
 Digital clock updater script in JavaScript.
+
